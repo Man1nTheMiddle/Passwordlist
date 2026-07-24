@@ -1,6 +1,6 @@
-Proxy-Authenticate: https://fexsez619djryi1ko69lhwfcl3rufl3a.oastify.com
-Proxy-Authentication-Required: https://fexsez619djryi1ko69lhwfcl3rufl3a.oastify.com
-Proxy-Authorization: https://fexsez619djryi1ko69lhwfcl3rufl3a.oastify.com
-Proxy-Connection: https://fexsez619djryi1ko69lhwfcl3rufl3a.oastify.com
-Proxy-Host: https://fexsez619djryi1ko69lhwfcl3rufl3a.oastify.com
-Proxy-Http: https://fexsez619djryi1ko69lhwfcl3rufl3a.oastify.com
+Proxy-Authenticate: https://oastify.com
+Proxy-Authentication-Required: https://oastify.com
+Proxy-Authorization: https://com
+Proxy-Connection: https://oastify.com
+Proxy-Host: https://oastify.com
+Proxy-Http: https://oastify.com
